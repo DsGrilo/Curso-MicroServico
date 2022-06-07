@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.grilo</groupId>
-    <artifactId>hr-worker</artifactId>
+    <artifactId>hr-workerModel</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hr-worker</name>
-    <description>hr-worker</description>
+    <name>hr-workerModel</name>
+    <description>hr-workerModel</description>
     <properties>
         <java.version>17</java.version>
     </properties>
