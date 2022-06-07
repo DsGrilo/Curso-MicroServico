@@ -1,4 +1,4 @@
-package com.grilo.hrworker.service;
+package com.grilo.hrworker.controller;
 
 import com.grilo.hrworker.entity.Worker;
 import com.grilo.hrworker.repository.WorkerRepository;
@@ -14,7 +14,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/workers")
 @RequiredArgsConstructor
-public class WorkerService {
+public class WorkerController {
 
     private final WorkerRepository repository;
 
